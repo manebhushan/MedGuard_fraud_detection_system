@@ -6,6 +6,15 @@ Utilizing machine learning algorithms and data analytics, MedGuard aims to prese
 
 * Check the notebooks for more details about data processing and model training/evaluation.
 
+## Project Contributors
+
+This project was developed as a college group project by the following team members:
+
+- **Bhushan Mane**
+- **Tejas Kharde**
+- **Rohit Kalane**
+- **Dnyaneshwar Mane**
+
 ## Requirements
 * Python 3.9+
 * Tableau
