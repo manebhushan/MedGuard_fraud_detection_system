@@ -60,3 +60,10 @@ The fraud rate (0.42%) does not reflect reality (10% worldwide), therefore it is
 The sample was selected using random sampling, and statistical tests were used to ensure that it was not biased.
 
 Check the notebooks for more details.
+
+## Contributors
+
+- Bhushan Mane
+- Tejas Kharde
+- Rohit Kalane
+- Dnyaneshwar Mane
